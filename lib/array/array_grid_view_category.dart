@@ -1,38 +1,38 @@
 List cardData = [
   {
-    "title": "ola",
+    "title": "Number1",
     "image": "assets/picture4.jpg",
   },
   {
-    "title": "who",
+    "title": "Number2",
     "image": "assets/picture5.jpg",
   },
   {
-    "title": "jay",
+    "title": "Number3",
     "image": "assets/picture6.jpg",
   },
   {
-    "title": "man",
+    "title": "Number4",
     "image": "assets/picture7.jpg",
   },
   {
-    "title": "azx",
+    "title": "Number5",
     "image": "assets/picture7.jpg",
   },
   {
-    "title": "asdas",
+    "title": "Number6",
     "image": "assets/picture7.jpg",
   },
   {
-    "title": "asdada",
+    "title": "Number7",
     "image": "assets/picture7.jpg",
   },
   {
-    "title": "masdn",
+    "title": "Number8",
     "image": "assets/picture7.jpg",
   },
   {
-    "title": "asd",
+    "title": "Number9",
     "image": "assets/picture7.jpg",
   },
 ];
